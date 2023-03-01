@@ -1,0 +1,8 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/yyf/CLionProjects/untitled
+Python include directory: /Library/Frameworks/Python.framework/Versions/3.10/include/python3.10
+Python version is: 3.10.8
+Python library is: /Library/Frameworks/Python.framework/Versions/3.10/lib/libpython3.10.dylib
+C++ library is: /Users/yyf/CLionProjects/untitled
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/yyf/CLionProjects/untitled/cmake-build-debug
